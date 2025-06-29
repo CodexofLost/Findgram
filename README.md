@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/officialfindgram"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=Channel&labelColor=21262d" alt="Telegram Channel"></a>
   <a href="https://t.me/findgramofficial"><img src="https://img.shields.io/badge/Telegram-Group-229ED9?style=for-the-badge&logo=telegram&logoColor=white&label=Group&labelColor=21262d" alt="Telegram Group"></a>
-  <img src="https://img.shields.io/badge/Kotlin-language-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&label=Language&labelColor=21262d" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=21262d" alt="Kotlin">
   <a href="https://github.com/CodexofLost/Findgram/releases"><img src="https://img.shields.io/github/v/release/CodexofLost/Findgram?style=for-the-badge&color=ff663b&label=Release&labelColor=21262d" alt="Releases"></a>
 </p>
 
