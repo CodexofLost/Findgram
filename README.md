@@ -30,7 +30,7 @@
    - The app receives the command via FCM, executes the action, and uploads the result (photo, audio, location, etc.) back to Telegram.
 
 3. **Notifications & File Management**:  
-   - Receive mirrored notifications from selected apps.
+   - Track notifications of selected apps.
    - Browse, download, and upload files directly through Telegram.
 
 ## Screenshots
@@ -82,8 +82,8 @@ The app UI provides an at-a-glance status for all permissions and helps users gr
 
 ## Telegram Commands
 
-- `/photo` — Take a photo (front/rear, flash, quality options).
-- `/video` — Record a video for a set duration.
+- `/photo` — Take a photo (front/rear, flash_on/flash_off).
+- `/video` — Record a video (front/rear, flash_on/flash_off, duration, quality).
 - `/audio` — Record audio for a set duration.
 - `/location` — Get current device location.
 - `/ring` — Make device ring loudly.
